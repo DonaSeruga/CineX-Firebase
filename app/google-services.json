@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "359355671574",
+    "firebase_url": "https://cinex-c96a6.firebaseio.com",
+    "project_id": "cinex-c96a6",
+    "storage_bucket": "cinex-c96a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359355671574:android:e0767c02f39b8bdd0c4137",
+        "android_client_info": {
+          "package_name": "com.example.cinexfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359355671574-6st4co20s1afa6okc710975k0hobrjde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinexfirebase",
+            "certificate_hash": "659cdf1dc9e664478172a22c9a2bf13ba51e2309"
+          }
+        },
+        {
+          "client_id": "359355671574-13b6u09gdvgda4hi49n6shmivplcbr8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdF14Tuvh8uRpRGLAyZpDsptC3Fc6wAmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359355671574-13b6u09gdvgda4hi49n6shmivplcbr8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

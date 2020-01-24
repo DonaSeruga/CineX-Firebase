@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CineX</string>
+    <string name="rezervacija" />
+    <string name="odaberite_sjedalo" />
+</resources>
